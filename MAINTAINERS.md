@@ -5,6 +5,7 @@ on particular package, please see the [CODEOWNERS file](CODEOWNERS).
 
 Core maintainers:
 
+- Agnes Lin ([@agnes512](https://github.com/agnes512))
 - Deepak Rajamohan ([@deepakrkris](https://github.com/deepakrkris))
 - Diana Lau ([@dhmlau](https://github.com/dhmlau))
 - Dominique Emond ([@emonddr](https://github.com/emonddr))
@@ -22,3 +23,4 @@ Community maintainers:
 - Denny Bartelt ([@derdeka](https://github.com/derdeka))
 - Douglas McConnachie ([@dougal83](https://github.com/dougal83))
 - Rifa Achrinza ([@achrinza](https://github.com/achrinza))
+- Francisco Buceta ([@frbuceta](https://github.com/frbuceta))
